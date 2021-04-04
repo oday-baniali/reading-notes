@@ -9,7 +9,7 @@
 | class-03          | [HTML Lists, Control Flow with JS, and the CSS Box Model](code201\class-03)   |
 | class-04          | [HTML Links, JS Functions, and Intro to CSS Layout.](code201\class-04)        |
 | class-05          | [Images, Color, Text](code201\class-05)                                       |
-| class-06          |                                                                               |
+| class-06          | [ problem Domain ,objects and the DOM](code201\class-06.md)                   |
 | class-07          |                                                                               |
 | class-08          |                                                                               |
 | class-09          |                                                                               |
