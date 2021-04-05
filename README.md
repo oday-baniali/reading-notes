@@ -19,4 +19,3 @@
 | class-13          |                                                                               |
 | class-14          |                                                                               |
 | class-15          |                                                                               |
-[Object-Oriented Programming, HTML 
