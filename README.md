@@ -11,7 +11,7 @@
 | class-05          | [Images, Color, Text](code201\class-05)                                       |
 | class-06          | [ problem Domain ,objects and the DOM](code201\class-06.md)                   |
 | class-07          | [object-Oriented Programming , HTML](code201\class-07.md)                     |
-| class-08          | [CSS layout](code201\class-08.md)                                            |
+| class-08          | [CSS layout](code201\class-08.md)                                             |
 | class-09          |                                                                               |
 | class-10          |                                                                               |
 | class-11          |                                                                               |
